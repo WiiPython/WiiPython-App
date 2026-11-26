@@ -13,3 +13,7 @@ make
 
 3. copy the content of sd_or_usb_card/ folder to your sd card
 
+
+## LICENSE
+### Textures
+* pointer*.png -- https://github.com/fail0verflow/hbc/tree/master/channel/channelapp/data
